@@ -8,6 +8,7 @@ const FourthLayerContainer = styled.div`
   background-image: url("/assets/project_pc.jpg");
   background-size: cover;
   background-position: center;
+  width: 100vw;
   height: 2300px;
 
   // 태블릿 크기에 대한 미디어 쿼리
